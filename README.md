@@ -25,8 +25,3 @@ The agent operates like a standard **Finite State Machine (FSM)**. It takes your
 
 ---
 
-## 💻 Setup & Usage
-
-1. Open your terminal or command line and run the script:
-   ```bash
-   python agent.py
